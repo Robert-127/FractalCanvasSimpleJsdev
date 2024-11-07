@@ -1,0 +1,1 @@
+Fractal Art Generator: Create stunning fractal images with this user-friendly application. Explore the beauty of mathematics through art!
